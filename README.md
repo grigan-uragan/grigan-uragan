@@ -17,6 +17,7 @@
  ### Here is my study projects:
  
  1. [To do list](https://github.com/grigan-uragan/job4j_todo)
+ 2. [Cinema](https://github.com/grigan-uragan/job4j_cinema)
  
  
  
